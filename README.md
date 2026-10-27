@@ -60,21 +60,6 @@ Testing| Planned
 
 Update this section as development progresses.
 
-Proposed Project Structure
-
-CampAIsel/
-├── src/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-├── assets/
-│   └── images/
-├── README.md
-├── package.json
-└── capacitor.config.ts
-
-The final structure may change when the Ionic and Capacitor project is created.
-
 Getting Started
 
 The application is not yet implemented. Development setup instructions will be added after the initial project is created.
